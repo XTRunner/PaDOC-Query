@@ -30,4 +30,6 @@ Major Data:
 
 -- experimentRelated: the randomly selected origins and \theta used in paper
 
+-- requirements.txt: Necessary packages and versions used in project
+
 If you have any question regarding this work, please feel free to reach out to me through xuteng@iastate.edu. Thanks for your interest:)
