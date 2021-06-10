@@ -14,7 +14,7 @@ Major Codes:
 
 -- ldaLearner.py: Perform Natrual Language Processing, including clean the raw text and train Latent topic based model
 
--- experiment.py: Produce the experimental results in paper
+-- experiment.py: Produce the experimental results in paper, including baselines (random walk with restart and Dijkstra algorithms)
 
 -- tripAdvisorCrawler/tripAdvisorCrawler/spiders/tripAdvisorSpider.py: Web HTML crawler for collecting reviews information of attratctions from TripAdvisor (https://www.tripadvisor.com)
 
