@@ -10,7 +10,7 @@ Major Codes:
 
 -- BuildContainer.py: Construct Closest Cateogry Vectors index from POI road network
 
--- greedy_search.py: Include SPRO-Origin-First and SPRO-POI-First algorithm
+-- greedySearch.py: Include SPRO-Origin-First and SPRO-POI-First algorithm
 
 -- ldaLearner.py: Perform Natrual Language Processing, including clean the raw text and train Latent topic based model
 
