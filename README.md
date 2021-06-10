@@ -26,7 +26,7 @@ Major Data:
 
 -- ldaModel/NYCleanedText.csv: Cleaned/Stemmed reviews of attractions in New York City
 
--- poiNetwork: POI road network before and after contraction hierarchies
+-- poiNetwork: (lat, lng) geolocation of POIs and 576 hotels in New York City, plus POI road network before and after contraction hierarchies
 
 -- experimentRelated: the randomly selected origins and \theta used in paper
 
