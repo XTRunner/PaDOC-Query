@@ -1,5 +1,4 @@
-# PaDOC-query 
-## (PAth with Distance, Origin, and Category constraints)
+# PaDOC-query ## (PAth with Distance, Origin, and Category constraints)
 
 ### Implementation in Python 3.7 for PaDOC. Please check requirements.txt for package dependencies
 
