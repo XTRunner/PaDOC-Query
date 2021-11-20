@@ -42,4 +42,4 @@
   
   - ExperimentRelated/randomVar.csv: Contains all randomly generated PoI preferences (\theta) used in experiment
 
-##### If you have any question regarding this work, please feel free to reach out to me through xuteng@iastate.edu. Thanks for your interest:)
+#### If you have any question regarding this work, please feel free to reach out to me through xuteng@iastate.edu. Thanks for your interest:)
