@@ -24,6 +24,8 @@ Major Codes:
 
 Major Data (Reproducing the experimental results in paper by executing Experiment.py):
 
+  -- CONSTANTS.py: List all the constants used in this work such as the number of categories, k in kCC index
+
   -- LDA_Model_6/
     
     --/ldaTrainedModel: Trained learning model (6 categories) used in paper
