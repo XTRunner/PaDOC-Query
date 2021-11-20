@@ -1,35 +1,43 @@
-# SPRO-query
+# PaDOC-query (PAth with Distance, Origin, and Category constraints)
 
-Implementation in Python 3.7 for SPRO (Semantically Diverse Path with Range and Origin Constraints). Please check requirements.txt for package dependencies
+Implementation in Python 3.7 for PaDOC. Please check requirements.txt for package dependencies
 
 Major Codes:
 
--- ParallelContractNetwork.py: Build contraction hierarchies on (POI) road network
+-- Query Processing
 
--- poiOSMNetwork.py: Build PoI road Network from Road Network (downloaded from OpenStreetMap by default) and POI database (from TripAdvisor)
+  -- ContractPoINetwork.py: Data structure/class for PoI network construction and various functionalities in network (e.g., kCC indexing create, R-tree build, Dijkstra algrithm)
 
--- BuildContainer.py: Construct Closest Cateogry Vectors index from POI road network
+  -- BuildContainer.py: Construct k-Closest Cateogry matrix index from PoI road network, deployed in distributed manner
 
--- greedySearch.py: Include SPRO-Origin-First and SPRO-POI-First algorithm
+  -- PoIOSMNetwork.py: Build PoI road Network from Road Network (downloaded from OpenStreetMap by default) and PoI database (from TripAdvisor)
 
--- ldaLearner.py: Perform Natrual Language Processing, including clean the raw text and train Latent topic based model
+  -- GreedySearch.py: Implement Origin-first variant (greedy_process_origin()) and PoI-first variant (greedy_process_PoI()) algorithms
 
--- experiment.py: Produce the experimental results in paper, including baselines (random walk with restart and Dijkstra algorithms)
+-- Pre-process PoI & Network
 
--- tripAdvisorCrawler/tripAdvisorCrawler/spiders/tripAdvisorSpider.py: Web HTML crawler for collecting reviews information of attratctions from TripAdvisor (https://www.tripadvisor.com)
+  -- PoIOSMNetwork.py: Fetch road network from OpenStreetMap and map-matching with PoI dataset
+  
+  -- TripAdvisorCrawler/tripAdvisorCrawler/spiders/tripAdvisorSpider.py: Web HTML crawler for collecting reviews information of attratctions from TripAdvisor (https://www.tripadvisor.com)
+  
+  -- LDALearner.py: Perform Natrual Language Processing, including clean the raw text and train Latent topic based model
 
-Major Data:
+Major Data (Reproducing the experimental results in paper by executing Experiment.py):
 
--- ldaModel/ldaTrainedModel: Trained learning model (6 categories) used in paper
+  -- LDA_Model_6/
+    
+    --/ldaTrainedModel: Trained learning model (6 categories) used in paper
 
--- ldaModel/trainCleanedText.csv: Dataset for training the model
-
--- ldaModel/NYCleanedText.csv: Cleaned/Stemmed reviews of attractions in New York City
-
--- poiNetwork: (lat, lng) geolocation of POIs and 576 hotels in New York City, plus POI road network before and after contraction hierarchies
-
--- experimentRelated: the randomly selected origins and \theta used in paper
-
--- requirements.txt: Necessary packages and versions used in project
+    --/trainCleanedText.csv: Dataset for training the model which contains 52959 cleaned reviews in U.S. 
+  
+  -- PoI_Network/
+  
+    -- /CSV/: Contain the information of randomly selected PoIs (used in expierments) 
+    
+    -- /Index/: k-CC matrix index constructed in NYC area
+    
+    -- /PKL/: Pickle storage for PoI network
+  
+  -- ExperimentRelated/randomVar.csv: Contains all randomly generated PoI preferences (\theta) used in experiment
 
 If you have any question regarding this work, please feel free to reach out to me through xuteng@iastate.edu. Thanks for your interest:)
