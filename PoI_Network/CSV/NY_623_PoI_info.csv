@@ -1,0 +1,624 @@
+id,name,category
+0,The National 9/11 Memorial & Museum,1
+1,Madison Square Garden,2
+2,American Museum of Natural History,4
+3,Ellis Island,1
+4,New York Public Library,4
+5,Gulliver's Gate,4
+6,Greenwich Village,3
+7,St. Patrick's Cathedral,0
+8,"Intrepid Sea, Air & Space Museum",4
+9,The Roosevelt Island Tramway,5
+10,Chelsea Market,3
+11,The Oculus,1
+12,Bloomingdale's,3
+13,Madame Tussauds New York,4
+14,Friends Building,1
+15,Museum of Illusions,4
+16,Wollman Rink,5
+17,Lincoln Square,2
+18,David H. Koch Theater,2
+19,Gapstow Bridge,5
+20,Hans Christian Andersen Statue,1
+21,Helen Hayes Theatre,2
+22,Greeley Square Park,3
+23,Gramercy Park,5
+24,The Players Theatre,2
+25,Greenflea Flea Market,3
+26,Statue of Confucius,1
+27,American Merchant Marines Memorial,1
+28,The Governors Ball Music Festival,2
+29,Alphabet City,3
+30,Conservatory Water,5
+31,Rockefeller Plaza Manhattan New York City,5
+32,Delacorte Clock,5
+33,Jean Dubuffet - Group of Four Trees,1
+34,Cunard Building,1
+35,Center for Jewish History,4
+36,Marilyn Monroe's subway grate,1
+37,The Drawing Center,4
+38,Church of St. Francis Xavier,0
+39,26th Street Flea Market,3
+40,One Chase Manhattan Plaza,1
+41,Nuyorican Poet's Cafe,2
+42,Miriam and Ira D. Wallach Art Gallery,4
+43,Lady Liberty,1
+44,Aqueduct Race Track,3
+45,Dante Park,5
+46,Carnegie Hill,1
+47,Merkin Concert Hall,2
+48,The Studio Museum in Harlem,4
+49,"New Era Factory Outlet, Inc.",3
+50,Joker Stairs,1
+51,Beresford,1
+52,Christ Church,0
+53,America's Response Monument,1
+54,Astor Place,1
+55,Barrymore Theater,2
+56,Wagner Cove,5
+57,Throgs Neck Bridge,5
+58,National Park Service - Information Center on Liberty Island,1
+59,De Witt Clinton Park,5
+60,Christopher Columbus Statue,1
+61,Skirball Center for the Performing Arts at NYU,2
+62,National Academy of Design Museum,4
+63,Ralph Bunche Park,1
+64,The Ansonia,1
+65,Italian American Museum,4
+66,79th Street Boat Basin,5
+67,Alexander Hamilton Statue,1
+68,Inwood Park,5
+69,The Chanin Building,1
+70,I Heart Radio Theater,2
+71,The Northern Dispensary,1
+72,Sperone Westwater,4
+73,Logos Bookstore,3
+74,New York Grand Opera,0
+75,Canyon of Heroes,1
+76,Greater Zion Hill Baptist Church,0
+77,Giuseppe Garibaldi Statue,1
+78,The Lowline Lab,4
+79,Church of the Holy Trinity,1
+80,Castle Williams,1
+81,The Broken Kilometer,4
+82,Foxwoods Theater,2
+83,Grey Art Gallery NYU,4
+84,William Cullen Bryant Statue,1
+85,Port Authority Bus Terminal,1
+86,Larry's Freewheeling,3
+87,China Institute,4
+88,Fantasy Forest Amusement Park at the Flushing Meadows Carousel,5
+89,Citicorp Center,1
+90,Church of Our Lady of Guadalupe,0
+91,Ancient Playground,5
+92,Pier 34,5
+93,St. Jean Baptiste Roman Catholic Church,0
+94,Peace Fountain - Friedensbrunnen,0
+95,City Cinema 123,2
+96,New York City Opera,2
+97,Life Underground,1
+98,The New York Mosque,0
+99,2120: An Art Experience at Portion Gallery,4
+100,New York Society Library,4
+101,Soldiers' and Sailors Monument New York,1
+102,Theodore Roosevelt Park,5
+103,Institute for the Study of the Ancient World,4
+104,Ukrainian Museum,4
+105,Guardians Superhero Sculptures,4
+106,Poster House,4
+107,53rd Street Public Library,4
+108,Tribeca Film Festival,2
+109,New York City Aids Memorial,1
+110,Holy Cross Church,0
+111,Fort Schuyler,4
+112,Stephen A. Schwarzman Building,4
+113,Arcadia Earth,4
+114,Mickey The True Original Exhibition,4
+115,Grolier Club,4
+116,Roosevelt Island Historical Society Visitor Center Kiosk,5
+117,The San Remo,1
+118,American Irish Historical Society,4
+119,Strivers' Row,1
+120,The Art Students League of New York,4
+121,Holy Innocents Church,0
+122,John Jay Park,5
+123,Pearl River,3
+124,The Africa Center,3
+125,Memorial Baptist Church,2
+126,Main Street Park,5
+127,Kelly Temple,0
+128,Pulitzer Fountain,1
+129,Father Duffy statue,1
+130,75 1/2 Bedford Street,1
+131,Sara D Roosevelt Park,5
+132,Daryl Roth Theatre,2
+133,Salmagundi Museum of American Art,4
+134,Manhattan Waterfront Greenway,5
+135,Artists & Fleas,3
+136,St. John the Baptist Church,0
+137,Kirk Theatre,2
+138,Lucille Lortel Theatre,2
+139,Tweed Courthouse,1
+140,Robert F. Kennedy Bridge,5
+141,Bartman Statue,1
+142,Masjid Malcolm Shabazz Mosque,1
+143,Museo de la Estatua de la Libertad,1
+144,Cooper Union Foundation Building,1
+145,"Machpelah Cemetery, site of Houdini's grave",1
+146,Asphalt Green,5
+147,Riverbank State Park,5
+148,Turtle Pond,5
+149,Church of the Ascension,0
+150,Hudson Street,3
+151,Church of Saint Agnes,0
+152,The Davenport Theatre,2
+153,Group of Bears Statue,1
+154,Attractions4Us New York City,1
+155,The Episcopal Church of The Heavenly Rest,0
+156,Elevated Acre,5
+157,Holy Trinity Greek Orthodox Cathedral,0
+158,Double Check,1
+159,4 World Trade Center,1
+160,Highbridge Park,5
+161,Harlem Meer,5
+162,Dyckman Farmhouse Museum,1
+163,Our Lady of Pompeii,0
+164,St. Luke's Theatre,2
+165,Katharine Hepburn Garden,5
+166,Second Avenue Subway,1
+167,St. Mark's-in-the-Bowery Church,0
+168,MoPi - Museum of Pizza,3
+169,Hallett Nature Sanctuary,5
+170,"Sadigh Gallery Ancient Art, Inc",4
+171,Judd Foundation,4
+172,The Appel Room,2
+173,Playwrights Horizons,2
+174,Rockaways,5
+175,Union Square Metronome,4
+176,Marble Collegiate Church,0
+177,Jefferson Market Library,1
+178,Hester Street Fair,3
+179,Joan of Arc Memorial,1
+180,American Standard Building,1
+181,Saint Paul Chapel,1
+182,Mmuseumm,4
+183,Electric Zoo,2
+184,George M. Cohan Statue,1
+185,St. Vartan Armenian Cathedral,0
+186,Museum of Comic and Cartoon Art MOCCA NYC,4
+187,Lever House,3
+188,John V. Lindsay East River Park,5
+189,Artechouse,4
+190,The Immigrants,1
+191,Graffiti Hall of Fame,4
+192,Church of the Transfiguration,0
+193,Fotografiska New York,4
+194,Sloomoo Institute,3
+195,Taglialatella Galleries,4
+196,Alice Tully Hall,2
+197,Urbanspace - Broadway Bites,3
+198,Metropolitan Life Insurance Tower,1
+199,Korean War Veterans Memorial,1
+200,World Trade Center Transportation Hub,1
+201,Shrine of St. Elizabeth Ann Bayley Seton,0
+202,Tudor City Greens,5
+203,Leslie-Lohman Museum of Gay and Lesbian Art,4
+204,El Museo del Barrio,4
+205,Bryant Park,5
+206,The National Arts Club,4
+207,Queen of Hearts,2
+208,GemsNY,3
+209,Ninth Avenue International Food Festival,3
+210,Canal Street Market,3
+211,Showfields,3
+212,CBS Building,1
+213,Tom's Diner,3
+214,City Hall Park Visitor Information Center,5
+215,Samsung 837,3
+216,Asia Society and Museum,4
+217,Metropolitan Transportation Authority,1
+218,Ladies Pavilion,5
+219,Orpheum Theatre,2
+220,Mount Neboh Baptist Church,0
+221,American Express 11 Tears Memorial,1
+222,Pier 66 Maritime,3
+223,Library Way,1
+224,Foley Square,1
+225,Christopher Park,1
+226,Rose Theater,2
+227,Orchard Street,3
+228,Minetta Lane Theatre,2
+229,Frank Gehry Building,1
+230,The Museum of Interesting Things,4
+231,Victorian Gardens,5
+232,Japan Society,4
+233,The Church of St. Ignatius Loyola,0
+234,59E59 Theaters,2
+235,Dave's New york,3
+236,William Tecumseh Sherman Monument,1
+237,Holland Tunnel,1
+238,East River Waterfront Esplanade,5
+239,Pier 45,5
+240,Barrow Street Theatre,2
+241,David Zwirner Gallery,4
+242,St. Peter's Church,0
+243,Riverside Drive,5
+244,Laura Pels Theater,2
+245,New York City Wine & Food Festival,3
+246,Hispanic Society of America,4
+247,Malcolm Shabazz Harlem Market,3
+248,Fifth Avenue Presbyterian Church,0
+249,St. Nicholas Park,5
+250,Fulton Fish Market,3
+251,Museum of American Finance,4
+252,Mt Olivet Baptist Church,2
+253,The Jefferson Market Garden,5
+254,Bowery,3
+255,The Pond,5
+256,Society of Illustrators,4
+257,United Palace,2
+258,The National Jazz Museum in Harlem,4
+259,Hello Panda Festival,2
+260,Mother African Methodist Episcopal Zion Church,0
+261,Tiffany Street Clock at 5th Ave.,1
+262,Tudor City,1
+263,Titanic Memorial Park,1
+264,Gagosian Gallery,4
+265,The American Kennel Club Museum of the Dog,4
+266,Church of Saint Mary the Virgin,0
+267,PlayStation Theater,2
+268,Grand Bazaar NYC,3
+269,The Municipal Building,1
+270,Antioch Baptist Church,2
+271,Schomburg Center for Research in Black Culture,4
+272,New York Transit Museum,1
+273,Tompkins Square Park,5
+274,Swedish Cottage Marionette Theatre,2
+275,Helmsley Building,1
+276,Church of St. Paul the Apostle,0
+277,The Armory (Track),2
+278,Barney's,3
+279,New York City Vietnam Veterans Memorial Plaza,1
+280,Joey Ramone Place,3
+281,New Victory Theater,2
+282,Westside Theatre,2
+283,Obscura Antiques & Oddities,4
+284,The Shed,4
+285,Church of Saint Vincent Ferrer,0
+286,Modell's,3
+287,Elizabeth Street Garden,3
+288,Times Square Countdown,2
+289,The New York Earth Room,4
+290,Cherry Lane Theatre,2
+291,The Green Room 42,2
+292,The Kneeling Fireman,1
+293,Algonquin Hotel,3
+294,Nicholas Roerich Museum,4
+295,Diamond District,3
+296,Irish Repertory Theatre,2
+297,NY Waterway,5
+298,Rose Center for Earth and Space,4
+299,Monumento General Jose de San Martin,1
+300,Dalmatian and Taxi Sculpture,5
+301,New York Public Library - Bloomingdale Library,4
+302,Scandinavia House,3
+303,Sutton Place Park,5
+304,United States Custom House,1
+305,The Mall,5
+306,Heckscher Playground,5
+307,Seagram Building,1
+308,New York Yacht Club,3
+309,The Annex / Hell's Kitchen Flea Market,3
+310,Zuccotti Park,5
+311,Columbus Park,5
+312,LuminoCity Festival,2
+313,Town Hall,2
+314,Ford Foundation Building,1
+315,T.J. Maxx,3
+316,James A. Farley Post Office,1
+317,Church of Saint Joseph of the Holy Family,0
+318,Agora Gallery,4
+319,Lincoln Tunnel,1
+320,Fred F. French Building,1
+321,Church of St. Francis of Assisi,0
+322,Golden Theatre,2
+323,Cort Theatre,2
+324,Cleopatra's Needle,1
+325,New York Public Library for the Performing Arts,4
+326,Paley Center for Media,4
+327,The Sphere,1
+328,Skyscraper Museum,4
+329,Seventh Avenue,1
+330,Museum of the American Gangster,4
+331,City Hall Park,5
+332,The Pershing Square Signature Center,2
+333,Castle Clinton National Monument,1
+334,Stonewall National Monument,1
+335,Abyssinian Baptist Church,2
+336,Randall's Island Park,5
+337,New York City Criminal Court,1
+338,Delacorte Theater,2
+339,The High Bridge,5
+340,Sony Hall,2
+341,American Folk Art Museum,4
+342,Channel Gardens,5
+343,Kinokuniya Book Stores of America,4
+344,Broadhurst Theatre,2
+345,South Street Seaport Museum,4
+346,Children's Museum of the Arts,4
+347,Ghostbusters Building,1
+348,Lyceum Theatre,2
+349,New York Comic-Con,2
+350,Bowling Green,5
+351,Barrymore Theatre,2
+352,Winter Garden,5
+353,Little Red Lighthouse,5
+354,The Ramble,5
+355,Paley Park,5
+356,Canaan Baptist Church of Christ,0
+357,Holcombe Rucker Park,3
+358,Sotheby's,4
+359,Shakespeare Garden,5
+360,Trinity Church Cemetery & Mausoleum,1
+361,Morningside Park,5
+362,Park Avenue Armory,4
+363,Morris-Jumel Mansion,1
+364,Central Synagogue,0
+365,Astor Place Theatre,2
+366,34th Street,1
+367,Alleva Dairy,3
+368,American Airlines Theater,2
+369,MetLife Building,1
+370,Rockefeller Park,5
+371,Grace Church,0
+372,Gracie Mansion,1
+373,Chelsea Flea Market,3
+374,New York University,5
+375,St. Patrick’s Day Parade New York City,2
+376,The Art of the Brick by Nathan Sawaya,4
+377,Trump Rink in Central Park,5
+378,New York City Supreme Court,1
+379,Hearst Tower,1
+380,Arthur Ashe Stadium,2
+381,Mount Vernon Hotel Museum & Garden,1
+382,Red Cube,1
+383,Holographic Studios,4
+384,ABC Carpet & Home,3
+385,Longacre Theatre,2
+386,Artists & Fleas at Chelsea Market,3
+387,New York International Auto Show,2
+388,Grand Masonic Lodge of New York,1
+389,H&M,3
+390,The Juilliard School,2
+391,Central Park's Literary Walk,5
+392,Sixth Avenue (Avenue of the Americas),1
+393,Greenacre Pocket Park,5
+394,St. Bartholomew's Church,0
+395,Carl Schurz Park,5
+396,General Electric Building,1
+397,Joyce Theater,2
+398,Hudson River Greenway,5
+399,Belasco Theatre,2
+400,Fulton Center,1
+401,Bernard B. Jacobs Theatre,2
+402,Convent Avenue Baptist Church,0
+403,Eugene O'Neill Theatre,2
+404,Stage 42,2
+405,Greater Refuge Temple,2
+406,New York City Hall,1
+407,The Public Theater,2
+408,Palace Theatre,2
+409,Daily News Building,1
+410,Vivian Beaumont Theatre,2
+411,Duffy Square,1
+412,Inwood Hill Park,5
+413,Temple Emanu-El,0
+414,Easter Parade,2
+415,Museum Mile,4
+416,Nederlander Theater,2
+417,Manhattan Mall,3
+418,Koreatown,3
+419,Chelsea Piers Sports & Entertainment Complex,5
+420,Essex Street Market,3
+421,First Corinthian Baptist Church,0
+422,Brooks Atkinson Theatre,2
+423,Jacqueline Kennedy Onassis Reservoir,5
+424,Circle In The Square Theatre,2
+425,New Museum of Contemporary Art,4
+426,"Banksy's ""Hammer Boy""",4
+427,Houdini Museum of New York at Fantasma Magic,4
+428,David Geffen Hall,2
+429,Rose Mansion,3
+430,Time Warner Center,3
+431,August Wilson Theater,2
+432,Belvedere Castle,5
+433,Museum of Chinese in  America,4
+434,Chelsea Hotel,1
+435,Museum of Arts and Design,4
+436,International Center of Photography Museum,4
+437,City Winery,3
+438,The High Line Park,5
+439,FDNY Memorial Wall,1
+440,Neil Simon Theatre,2
+441,Mahayana Buddhist Temple,1
+442,PATH,1
+443,New York City Center,2
+444,Fearless Girl,1
+445,The Village Halloween Parade,2
+446,FDNY Fire Zone,4
+447,East Village,3
+448,Franklin D. Roosevelt Four Freedoms Park,1
+449,Ambassador Theatre,2
+450,National Museum of Mathematics,4
+451,Hope Sculpture,1
+452,Governors Island,5
+453,Music Box Theatre,2
+454,Riverside Church,0
+455,Williamsburg Bridge,5
+456,George Washington Bridge,5
+457,Booth Theatre,2
+458,New York City Subway,1
+459,Ed Sullivan Theater,2
+460,Upper East Side,1
+461,Theodore Roosevelt Birthplace National Historic Site,1
+462,Pip's Island,2
+463,TriBeCa,3
+464,Battery Park,5
+465,The Dakota,1
+466,Jacob Javits Convention Center,2
+467,Seaport District NYC,3
+468,Bow Bridge,5
+469,General Grant National Memorial,1
+470,Queensboro Bridge,5
+471,Irish Hunger Memorial,1
+472,Love Sculpture,1
+473,Marquis Theatre,2
+474,Stephen Sondheim Theatre,2
+475,New York Stock Exchange,1
+476,African Burial Ground National Monument,1
+477,Walter Kerr Theater,2
+478,NYC Ferry,5
+479,Federal Hall,1
+480,Bethesda Terrace,5
+481,Hamilton Grange National Memorial,1
+482,Balto Statue,1
+483,Unisphere,5
+484,Studio 54,2
+485,Imperial Theatre,2
+486,Lower East Side,3
+487,Children's Museum of Manhattan,4
+488,Fraunces Tavern Museum,4
+489,Penn Station,1
+490,Alice in Wonderland Statue,5
+491,Ripley's Believe It or Not! Times Square,4
+492,Columbus Circle,1
+493,Herald Square,1
+494,Gerald Schoenfeld Theatre,2
+495,The Shops & Restaurants at Hudson Yards,1
+496,Hudson Theatre,2
+497,The Shops at Columbus Circle,3
+498,Park Avenue,1
+499,Trump Tower,1
+500,The Met Breuer,4
+501,Museum of Sex,4
+502,St Joseph's Chapel Catholic Memorial at Ground Zero,1
+503,Lunt-Fontanne Theatre,2
+504,Shubert Theatre,2
+505,Al Hirschfeld Theatre,2
+506,Charging Bull (Wall Street Bull),1
+507,St James Theatre,2
+508,Century 21,3
+509,Bethel Gospel Assembly,0
+510,Central Park Zoo,5
+511,Wall Street,1
+512,Federal Reserve Bank of New York,1
+513,The Museum at FIT,4
+514,New York Harbor,5
+515,"Cooper Hewitt, Smithsonian Design Museum",4
+516,Pier 17,5
+517,NFL Experience Times Square,2
+518,New York City Fire Museum,4
+519,National Museum of the American Indian,4
+520,Little Italy,3
+521,Westfield World Trade Center,1
+522,Chinatown,3
+523,Merchant's House Museum,1
+524,Hayden Planetarium,4
+525,The Jewish Museum,4
+526,Richard Rodgers Theatre,2
+527,New World Stages,2
+528,St. Thomas Church,0
+529,Riverside Park,5
+530,Stone Street Historic District,3
+531,Solomon R. Guggenheim Museum,4
+532,Broadway Theatre,2
+533,Winter Garden Theatre,2
+534,Governors Island National Monument,5
+535,Color Factory,4
+536,Chelsea,3
+537,Madison Square Park,5
+538,Times Square Church,0
+539,Rubin Museum of Art,4
+540,Jazz at Lincoln Center,2
+541,KGB Espionage Museum,4
+542,42nd Street,1
+543,Manhattan Bridge,5
+544,Fort Tryon Park,5
+545,Cathedral Church of Saint John the Divine,0
+546,Bethesda Fountain,5
+547,Conservatory Garden,5
+548,Meatpacking District,3
+549,Upper West Side,3
+550,Columbia University,1
+551,World Trade Center's Liberty Park,1
+552,Beacon Theatre,2
+553,Sea Glass Carousel,5
+554,"Strawberry Fields, John Lennon Memorial",1
+555,Trinity Church,1
+556,Union Square,3
+557,Macy's Thanksgiving Day Parade,2
+558,Hudson River Park,5
+559,World Trade Center Station (PATH),1
+560,GhostBusters Firestation,1
+561,Lower Manhattan,1
+562,Grand Central Market,3
+563,Museum of Ice Cream,3
+564,New Amsterdam Theater,2
+565,Saks Fifth Avenue,1
+566,Brookfield Place,3
+567,Lyric Theatre,2
+568,Museum of the City of New York,4
+569,Minskoff Theatre,2
+570,Union Square Green Market,3
+571,St. Patrick's Old Cathedral,0
+572,Gershwin Theater,2
+573,St. Paul's Chapel,1
+574,Harlem,1
+575,Museum at Eldridge Street,4
+576,Times Square,1
+577,SeaGlass Carousel at The Battery,5
+578,Kings County Distillery,3
+579,Spyscape,4
+580,Majestic Theatre,2
+581,Museum of Jewish Heritage,4
+582,One World Trade Center,1
+583,Macy's Herald Square,1
+584,Lincoln Center for the Performing Arts,2
+585,Woolworth Building,1
+586,Neue Galerie,4
+587,Whitney Museum of American Art,4
+588,Apollo Theater,2
+589,Ellis Island Immigration Museum,4
+590,Ground Zero Museum Workshop,4
+591,The Vessel,1
+592,Roosevelt Island,5
+593,United Nations Headquarters,1
+594,Rockefeller Center Christmas Tree,5
+595,Chrysler Building,1
+596,Washington Square Park,5
+597,New-York Historical Society Museum & Library,4
+598,West Village,3
+599,Fifth Avenue,1
+600,Tenement Museum,4
+601,SoHo,3
+602,The Morgan Library & Museum,4
+603,Flatiron Building,1
+604,World Trade Center Memorial Foundation,1
+605,Frick Collection,4
+606,Christmas Spectacular Starring the Radio City Rockettes,2
+607,Staten Island Ferry,5
+608,Broadway,2
+609,The Museum of Modern Art (MoMA),4
+610,Radio City Music Hall,2
+611,Rockefeller Center,1
+612,The Met Cloisters,4
+613,Grand Central Terminal,1
+614,The High Line,5
+615,Statue of Liberty,1
+616,Manhattan Skyline,5
+617,Brooklyn Bridge,5
+618,One World Observatory,1
+619,Top of the Rock,1
+620,Empire State Building,1
+621,The Metropolitan Museum of Art,4
+622,Central Park,5
