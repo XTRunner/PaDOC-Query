@@ -12,7 +12,7 @@
 
   - PoIOSMNetwork.py: Build PoI road Network from Road Network (downloaded from OpenStreetMap by default) and PoI database (from TripAdvisor)
 
-  - GreedySearch.py: Implement Origin-first variant (greedy_process_origin()) and PoI-first variant (greedy_process_PoI()) algorithms
+  - GreedySearch.py: Implement Origin-first variant (**greedy_process_origin**) and PoI-first variant (**greedy_process_PoI**) algorithms
 
 - Pre-process PoI & Network
 
