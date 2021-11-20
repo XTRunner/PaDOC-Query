@@ -1,8 +1,8 @@
 # PaDOC-query (PAth with Distance, Origin, and Category constraints)
 
-####### Implementation in Python 3.7 for PaDOC. Please check requirements.txt for package dependencies
+### Implementation in Python 3.7 for PaDOC. Please check requirements.txt for package dependencies
 
-##Major Codes:
+## Major Codes:
 
 - Query Processing
 
@@ -22,7 +22,7 @@
   
   - LDALearner.py: Perform Natrual Language Processing, including clean the raw text and train Latent topic based model
 
-##Major Data (Reproducing the experimental results in paper by executing Experiment.py):
+## Major Data (Reproducing the experimental results in paper by executing Experiment.py):
 
   - CONSTANTS.py: List all the constants used in this work such as the number of categories, k in kCC index
 
@@ -42,4 +42,4 @@
   
   - ExperimentRelated/randomVar.csv: Contains all randomly generated PoI preferences (\theta) used in experiment
 
-##If you have any question regarding this work, please feel free to reach out to me through xuteng@iastate.edu. Thanks for your interest:)
+## If you have any question regarding this work, please feel free to reach out to me through xuteng@iastate.edu. Thanks for your interest:)
