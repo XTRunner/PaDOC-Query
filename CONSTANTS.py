@@ -9,6 +9,7 @@ C5 = 4
 C6 = 5
 
 CATEGORY_NUM = 6
+K_MAX = 5
 
 # For edge.direction
 SRC = 0
@@ -19,6 +20,7 @@ SizeOfIndependentSet = 2048
 
 # Convert meter into degree
 REarth = 6378137
-varPiDegree = math.pi/180
+varPiDegree = math.pi / 180
 
-factorPrior = 0.8
+factorPriorVector = 0.8
+factorPriorMatrix = 0.1
